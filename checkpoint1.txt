@@ -1,0 +1,2 @@
+I have decided to use Defold as my Lua game engine. My current plan is to make a platformer, but I am not sure about the details of my game yet. Defold has many
+tutorials to help me accomplish my objective.
